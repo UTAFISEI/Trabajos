@@ -18,6 +18,8 @@ public class EjemplosGit {
         // TODO code application logic hereÇ
         
         System.out.println("HOLAAAAAAAAAAAAAAAAAAA");
+        
+        stem.out.println("HOLAAAAAAAAAAAAAAAAAAA");
     }
     
 }
