@@ -19,7 +19,7 @@ public class EjemplosGit {
         
         System.out.println("HOLAAAAAAAAAAAAAAAAAAA");
         
-        Sstem.out.println("HOLAAAAAAAAAAAAAAAAAAA");
+        System.out.println("HOLAAAAAAAAAAAAAAAAAAA");
     }
     
 }
