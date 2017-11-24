@@ -19,7 +19,7 @@ public class EjemplosGit {
         
         System.out.println("HOLAAAAAAAAAAAAAAAAAAA");
         
-        stem.out.println("HOLAAAAAAAAAAAAAAAAAAA");
+        Sstem.out.println("HOLAAAAAAAAAAAAAAAAAAA");
     }
     
 }
